@@ -1,7 +1,9 @@
 Project Overview
+
 XHealthAI is a full-stack AI web application designed to provide personalized health insights, predictions, and recommendations. The platform utilizes machine learning models to predict various health conditions such as heart disease, diabetes, PCOS, and mental health conditions. The system also integrates model explainability tools like SHAP and LIME for personalized health recommendations, ensuring transparency and trust in the AI-driven insights.
 
 Key Features
+
 Health Condition Prediction: Predicts heart disease, diabetes, PCOS, and mental health conditions based on user input.
 Model Explainability: Uses SHAP and LIME to provide transparent insights into how predictions are made, ensuring users understand the factors affecting their health.
 Personalized Health Recommendations: Provides personalized health recommendations based on AI predictions, guiding users toward healthier lifestyles.
@@ -9,6 +11,7 @@ Data Visualizations: Interactive dashboards displaying health data and predictio
 Chatbot Integration: Offers a chatbot to assist users with health-related queries and guide them through the platform.
 Technology Stack
 Frontend:
+
 HTML, CSS, JavaScript: For building the user interface and interactive elements.
 Chart.js: For data visualizations, allowing users to see their health metrics and predictions in a graphical format.
 Backend:
